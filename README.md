@@ -1,3 +1,3 @@
 # demo
 this is my first Repositary
-Author - Vis
+Author - Vishal Yadav
